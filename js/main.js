@@ -1,0 +1,1 @@
+const tabManager = makeTabs('.tab-container')

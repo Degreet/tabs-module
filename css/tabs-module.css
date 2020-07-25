@@ -1,0 +1,20 @@
+.tab-container .tabs {
+    display: flex;
+    background: #eee;
+}
+
+.tab-container .tabs h3 {
+    padding: 12px 20px;
+    cursor: pointer;
+}
+
+.tab-container .tabs h3.active {
+    background: #fff;
+    border-top: 1px solid grey;
+}
+
+.tab-container .bodies .tab-body {
+    padding: 20px;
+    font-size: 18px;
+    line-height: 25px;
+}
